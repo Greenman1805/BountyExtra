@@ -1,0 +1,5 @@
+name: BountyExtra
+main: de.greenman1805.bountyextra.Main
+version: 1.0
+author: Greenman1805
+depends: [Vault]
